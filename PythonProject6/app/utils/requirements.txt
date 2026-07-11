@@ -9,3 +9,4 @@ ibm-cloud-sdk-core>=3.18.0
 pytesseract>=0.3.10
 pillow>=10.0.0
 apscheduler>=3.10.0
+numpy>=1.26.0
